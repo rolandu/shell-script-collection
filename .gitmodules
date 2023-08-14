@@ -1,0 +1,6 @@
+[submodule "check-for-root-permissions"]
+	path = check-for-root-permissions
+	url = https://github.com/rolandu/check-for-root-permissions.git
+[submodule "task-runner"]
+	path = task-runner
+	url = https://github.com/rolandu/task-runner.git
