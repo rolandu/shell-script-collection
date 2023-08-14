@@ -14,3 +14,12 @@ Update:
 Adding a submodule:
 ```git submodule add <repository_url> <local_directory_name>```
 
+Updating a submodule:
+```
+cd <submodule>
+git checkout main
+git pull
+cd ..
+git commit <submodule>
+git push
+```
