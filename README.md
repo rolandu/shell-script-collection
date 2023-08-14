@@ -7,7 +7,7 @@ Install:
 ```git clone --recursive <this repo url>```
 
 Update:
-```git submodule update --recursive --remote```
+```git pull --recurse-submodules```
 
 ## How to modify
 
